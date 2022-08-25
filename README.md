@@ -1,2 +1,2 @@
 -------------- Calculator -----------------<br />
-Check it out here :- https://htmlpreview.github.io/?https://github.com/suresh5189/Calculator/blob/master/index.html
+Check it out here :- https://suresh5189.github.io/Calculator/
